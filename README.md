@@ -3,26 +3,24 @@
 ## lundi:
 ### matin:
 * ce matin j’ai découvert beta.gouv,beta.gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
- * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour me prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. 
+ * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour me prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. Si vous voulez allée cheker je vous met le lien ici (https://recosante.beta.gouv.fr/)
   
 * Startup d'État:une équipe dédieé qui développe une solution a un problème politique et publique.
 
 ----------------------------------------
 ### après-midi:
-J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi  entre place de l’emploi publique et pôle emploi. place de l’emploi et une Startup d'État ,pôle emploi non.
-.J'ai pu poser des question à un salarié qui s’appelle léry jicquel qui m'a expliqué quel et sont métiers et les parcours qu’il a fait pour en arriver là.Il s'occupe du service numérique ,il est chargé de recruter de nouveau membre et de veiller à la bonne entente du groupe.
+J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
+J'ai pu poser des question à un salarié qui s’appelle léry jicquel qui m'a expliqué quel et sont métiers et les parcours qu’il a fait pour en arriver là.Il s'occupe du service numérique ,il est chargé de recruter de nouveau membre et de veiller à la bonne entente du groupe.
 En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/) j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
-Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc…..  
+Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc... 
 
 
 #### 13/04
 ## mardi:
-* beta s'intègre dans la DINUM: beta.gouv fait partie du système de tech.gouv
+* Beta s'intègre dans la DINUM: beta.gouv fait partie du système de tech.gouv
 
-* mon maître de stage travaille pour beta.gouv il travail dans un des service de la DINUM,à paris 20 avenue ségure.Il travaille pour les service du premier ministre.le premier ministre dirige plus d’une centaine de services qui assistent, la DINUM est un des service du premier ministre,
- beta est une mission de la DINUM qui fait partie des services du premier ministre.
-
-* j’ai découvert diagoriente, diagoriente est un site qui  t’aide a la recherche d’un future métiers et te montre des métiers qui potentiellement pourrait t'intéresser. 
+* Mon maître de stage travaille pour beta.gouv il travail dans un des service de la DINUM,à paris 20 avenue ségure.Il travaille pour les service du premier ministre.Le premier ministre dirige plus d’une centaine de services qui assistent, la DINUM est un des service du premier ministre,
+ beta est une mission de la DINUM qui fait partie des services du premier ministre. 
 
 ----------------------------------
 ## après-midi:
