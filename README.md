@@ -50,7 +50,8 @@ personnellement ce site m'a aidé a trouver mes points forts.
 
 ce midi j'ai commencé la mise en page que vous voyez la, j'ai passé une bonne partie de mon temps ce matin a le faire et je compte le términer pour aujourd'hui 
 pour commencer autre chose où qui sais continué se que j'écrit.
-pour commencer j'ai ajouté des titre grace au `##titre`
-j'ai mis des puce pour séparer mes discours pour qu'ils soient cohérent
+pour commencer j'ai ajouté des titre grace au `##titre`,
+j'ai mis des * puce
+pour séparer mes discours pour qu'ils soient un minimum cohérent
 
 
