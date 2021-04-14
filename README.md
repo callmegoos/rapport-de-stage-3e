@@ -7,7 +7,8 @@
   
 * Startup d'État:une équipe dédieé qui développe une solution a un problème politique et publique.
 
-`##titre`après-midi: J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi  entre place de l’emploi publique et pôle emploi. place de l’emploi et une Startup d'État ,pôle emploi non.
+----------------------------------------
+### après-midi: J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi  entre place de l’emploi publique et pôle emploi. place de l’emploi et une Startup d'État ,pôle emploi non.
 .J'ai pu poser des question à un salarié qui s’appelle léry jicquel qui m'a expliqué quel et sont métiers et les parcours qu’il a fait pour en arriver là.Il s'occupe du service numérique ,il est chargé de recruter de nouveau membre et de veiller à la bonne entente du groupe.
 En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/) j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
 Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc…..  
@@ -22,7 +23,7 @@ Il faut par exemple des personnes en charge du produit et du déploiement, coach
 
 * j’ai découvert diagoriente, diagoriente est un site qui  t’aide a la recherche d’un future métiers et te montre des métiers qui potentiellement pourrait t'intéresser. 
 
-
+----------------------------------
 ## après-midi:
 * dire que j’ai trouvé un problème sur le site recosanté: j’ai voulu signaler un problème sur recosanté, je ne pouvais pas me créer un compte. alors pour cela j’ai dû me créer un compte sur github pour pouvoir signalé le problème
 
@@ -34,8 +35,7 @@ je l’ai envoyé et maintenant j’attend la réponse
 * un projet open source et un code source accessible à tous (gratuitement) et peut être modifié,déplacer,copier par tout le monde .
 
 
-
-
+--------------------------------------------------
 
 #### 14/04
 ## mercredi:
@@ -45,7 +45,7 @@ je l’ai envoyé et maintenant j’attend la réponse
 ![Capture d’écran (7)](https://user-images.githubusercontent.com/82452161/114710147-ac048a80-9d2d-11eb-92d1-1b36bb08e66f.png)
 personnellement ce site m'a aidé a trouver mes points forts.
  
-
+---------------------------------
 ## après-midi:
 
 ce midi j'ai commencé la mise en page que vous voyez la, j'ai passé une bonne partie de mon temps ce matin a le faire et je compte le términer pour aujourd'hui 
