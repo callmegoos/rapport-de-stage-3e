@@ -15,8 +15,9 @@ J’ai assisté à une conférence de mon maître de stage, il s'appelle chaib m
 ![image](https://user-images.githubusercontent.com/82452161/114733056-4f13cf00-9d43-11eb-977e-f8772b9c94f2.png)
 
 -------------------------------------
-le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
-J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien et une photo de lui:
+* Le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
+
+* J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien et une photo de lui:
 (https://github.com/callmegoos/interviw-de-l-ry/edit/main/README.md)
 ![image](https://user-images.githubusercontent.com/82452161/114733526-b6ca1a00-9d43-11eb-8496-c7f0c5dc3548.png)
 
@@ -66,6 +67,8 @@ j'ai mis des astérisque se qu'on appelle des (puce)
 afin de séparer mes discours pour qu'ils soient un minimum cohérent.
 ensuit j'ai fait des barre de séparation pour séparé les jours les un des autre ,grace une suite de plusieurs `-`
 pour finalement donner la barre que vous avez en-bàs.
+
+-------------------------------------------------------------------------------
 
 ------------------------------------------------------------------
 
