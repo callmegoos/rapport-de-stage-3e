@@ -3,7 +3,7 @@
 ## lundi:
 ### matin:
 * ce matin j’ai découvert beta.gouv,beta.gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
- * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour vous prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. 
+ * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour me prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. 
   
 * Startup d'État:une équipe dédieé qui développe une solution a un problème politique et publique.
 
