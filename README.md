@@ -1,6 +1,6 @@
 # mon-rapport-de-stage-de-3e
 
-## lundi
+## lundi:
 ### matin:
 * ce matin j’ai découvert beta.gouv,beta gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
  * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour vous prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. 
@@ -9,7 +9,7 @@
 
 `##titre`après-midi: J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi  entre place de l’emploi publique et pôle emploi. place de l’emploi et une Startup d'État ,pôle emploi non.
 .J'ai pu poser des question à un salarié qui s’appelle léry jicquel qui m'a expliqué quel et sont métiers et les parcours qu’il a fait pour en arriver là.Il s'occupe du service numérique ,il est chargé de recruter de nouveau membre et de veiller à la bonne entente du groupe.
-En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/)j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
+En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/) j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
 Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc…..  
 
 
@@ -38,7 +38,7 @@ je l’ai envoyé et maintenant j’attend la réponse
 
 
 
-# mercredi:
+## mercredi:
 
 ## matin:
 * ce matin j’ai testé diagoriente, diagriente est un site qui permet de connaître different métiers en rapport avec vos centres d'intérêt je vous met un lien si vous voulez essayer (Diagoriente) voici une image pour vous l'illustrer. 
