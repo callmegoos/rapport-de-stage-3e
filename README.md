@@ -55,6 +55,10 @@ pour commencer j'ai ajouté des titre grace au `##titre`,
 j'ai mis des astérisque se qu'on appelle des (puce)
 * pour faire ceci 
 
-afin de séparer mes discours pour qu'ils soient un minimum cohérent
+afin de séparer mes discours pour qu'ils soient un minimum cohérent.
+ensuit j'ai fait des barre de séparation pour séparé les jours les un des autre ,grace une suite de plusieurs `-`
+pour finalement donner la barre que vous avez en-bàs.
+
+------------------------------------------------------------------
 
 
