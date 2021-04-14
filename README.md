@@ -2,7 +2,7 @@
 
 ## lundi:
 ### matin:
-* ce matin j’ai découvert beta.gouv,beta gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
+* ce matin j’ai découvert beta.gouv,beta.gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
  * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour vous prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. 
   
 * Startup d'État:une équipe dédieé qui développe une solution a un problème politique et publique.
@@ -41,8 +41,8 @@ je l’ai envoyé et maintenant j’attend la réponse
 ## mercredi:
 
 ## matin:
-* ce matin j’ai testé diagoriente, diagriente est un site qui permet de connaître different métiers en rapport avec vos centres d'intérêt je vous met un lien si vous voulez essayer (Diagoriente) voici une image pour vous l'illustrer.  
-
+* ce matin j’ai testé diagoriente, diagriente est un site qui permet de connaître different métiers en rapport avec vos centres d'intérêt je vous met un lien si vous voulez essayer---(https://diagoriente.beta.gouv.fr/) voici une image pour vous l'illustrer.  
+![Capture d’écran (7)](https://user-images.githubusercontent.com/82452161/114710147-ac048a80-9d2d-11eb-92d1-1b36bb08e66f.png)
 personnellement ce site m'a aidé a trouver mes points forts.
  
 
