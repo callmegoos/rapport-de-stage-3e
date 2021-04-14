@@ -54,6 +54,7 @@ pour commencer autre chose où qui sais continué se que j'écrit.
 pour commencer j'ai ajouté des titre grace au `##titre`,
 j'ai mis des astérisque se qu'on appelle des (puce)
 * pour faire ceci 
+
 afin de séparer mes discours pour qu'ils soient un minimum cohérent
 
 
