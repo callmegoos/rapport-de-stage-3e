@@ -10,7 +10,7 @@
 ----------------------------------------
 ### après-midi:
 J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
-J'ai pu poser des question à un salarié qui s’appelle léry jicquel qui m'a expliqué quel et sont métiers et les parcours qu’il a fait pour en arriver là.Il s'occupe du service numérique ,il est chargé de recruter de nouveau membre et de veiller à la bonne entente du groupe.
+J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien de l'interviw (https://github.com/callmegoos/interviw-de-l-ry/edit/main/README.md)
 En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/) j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
 Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc... 
 
