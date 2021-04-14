@@ -42,7 +42,8 @@ je l’ai envoyé et maintenant j’attend la réponse
 
 ## matin:
 * ce matin j’ai testé diagoriente, diagriente est un site qui permet de connaître different métiers en rapport avec vos centres d'intérêt je vous met un lien si vous voulez essayer (Diagoriente) voici une image pour vous l'illustrer. 
-(https://user-images.githubusercontent.com/82452161/114708414-99895180-9d2b-11eb-8ce6-2ea4b616dc3c.png)
+(https://user-images.githubusercontent.com/82452161/114708896-3d72fd00-9d2c-11eb-93a0-519ed921af23.png) 
+
 personnellement ce site m'a aidé a trouver mes points forts.
  
 
