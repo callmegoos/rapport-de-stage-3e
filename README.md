@@ -3,19 +3,28 @@
 ## lundi:
 ### matin:
 * ce matin j’ai découvert beta.gouv,beta.gouv sert a simplifié la vie des usagers des entreprise ou des agent public,aide les ministères et autre partenaires public à construire des service numérique.
+![image](https://user-images.githubusercontent.com/82452161/114732808-1ecc3080-9d43-11eb-9e22-34d5162bc60f.png)
+----------------------------------------
  * j’ai découvert recosante,récosante est un site que j’ai testé. Il sert à alerter des dangers de la pollution et du pollen dans l'air. Tous les matins je reçois une lettre pour me prévenir de l’activité du pollen et de la pollution dans la région ou j'habite. Si vous voulez allée cheker je vous met le lien ici (https://recosante.beta.gouv.fr/)
  et une capture d'écran:
  ![image](https://user-images.githubusercontent.com/82452161/114731490-16bfc100-9d42-11eb-8c6a-79ba54657981.png)
 
 ----------------------------------------
 ### après-midi:
-J’ai assisté à une conférence de mon maître de stage, le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
-J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien de l'interviw :
+J’ai assisté à une conférence de mon maître de stage, il s'appelle chaib martinez je vous montre une photo de lui:
+![image](https://user-images.githubusercontent.com/82452161/114733056-4f13cf00-9d43-11eb-977e-f8772b9c94f2.png)
+
+-------------------------------------
+le sujet abordé était sur le transfert des offres d'emploi entre place de l’emploi publique et pôle emploi. Place de l’emploi et une Startup d'État ,pôle emploi non.
+J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien et une photo de lui:
 (https://github.com/callmegoos/interviw-de-l-ry/edit/main/README.md)
+![image](https://user-images.githubusercontent.com/82452161/114733526-b6ca1a00-9d43-11eb-8496-c7f0c5dc3548.png)
+
+-------------------------------------
 En allant sur la page de recrutement (https://beta.gouv.fr/recrutement/) j’ai appris que travailler a beta.gouv ne veux pas dire qu’il faut obligatoirement avoir des notions dans le codage,il y’a plusieurs services.
 Il faut par exemple des personnes en charge du produit et du déploiement, coach pour le programme national d’investigation etc... 
 
-
+-------------------------------------
 #### 13/04
 ## mardi:
 * Beta s'intègre dans la DINUM: beta.gouv fait partie du système de tech.gouv
@@ -32,7 +41,7 @@ Il faut par exemple des personnes en charge du produit et du déploiement, coach
  * je vais comprendre comment signaler un problème:je leur ai envoyé une capture d’écran de ce qui n'allait pas.
 je l’ai envoyé et maintenant j’attend la réponse 
  
-* un projet open source et un code source accessible à tous (gratuitement) et peut être modifié,déplacer,copier par tout le monde .
+* un projet open source et un code source accessible à tous (gratuitement) et peut être modifié,déplacer,copier par tout le monde.
 
 
 --------------------------------------------------
