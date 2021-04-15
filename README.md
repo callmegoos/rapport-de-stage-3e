@@ -69,7 +69,12 @@ ensuit j'ai fait des barre de séparation pour séparé les jours les un des aut
 pour finalement donner la barre que vous avez en-bàs.
 
 -------------------------------------------------------------------------------
+#### 15/04
+## jeudi:
 
-------------------------------------------------------------------
+
+## matin: 
+* aujourd'hui j'ai testé (https://mesconseilscovid.sante.gouv.fr/#pediatrie) 
+ce site sert a donner des conseil contre la covid, nous prévenir des potentiel danger qu'il peut engendrer, et nous alerter si nous nous avont approcher d'un potentielle cas contact.Je pense que ce site et très pratique vu la situation dans la quelle nous sommes et pourrait sauver plus d'une vie.
 
 
