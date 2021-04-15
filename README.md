@@ -75,7 +75,7 @@ pour finalement donner la barre que vous avez en-bàs.
 
 ## matin: 
 * aujourd'hui j'ai testé (https://mesconseilscovid.sante.gouv.fr/#pediatrie) 
-ce site sert a donner des conseil contre la covid, nous prévenir des potentiel danger qu'il peut engendrer, et nous alerter si nous nous avont approcher d'un potentielle cas contact.Je pense que ce site et très pratique vu la situation dans la quelle nous sommes et pourrait sauver plus d'une vie.
+ce site sert a donner des conseil contre la covid, nous prévenir des potentiel danger qu'il peut engendrer, et nous alerter si nous nous avont approcher d'un potentielle cas contact. Aussi vous montrer comment vous aucupé de vos/votre enfant/bébé/grosses,je pense que ce site et très pratique vu la situation dans la quelle nous sommes et pourrait sauver plus d'une vie.
 je vous montre un petit expemple.
 
 ![image](https://user-images.githubusercontent.com/82452161/114836007-7bc2f780-9dd2-11eb-809f-f9b06c8434c4.png)
