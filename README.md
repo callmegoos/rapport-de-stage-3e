@@ -19,6 +19,7 @@ J’ai assisté à une conférence de mon maître de stage, il s'appelle chaib m
 
 * J'ai pu poser des question à un salarié qui s’appelle léry jicquel,il ma expliqué sont métiers et les étude qu,il a du faire pour en arriver la ,je vous met le lien et une photo de lui:
 (https://github.com/callmegoos/interviw-de-l-ry/edit/main/README.md)
+
 ![image](https://user-images.githubusercontent.com/82452161/114733526-b6ca1a00-9d43-11eb-8496-c7f0c5dc3548.png)
 
 -------------------------------------
