@@ -90,12 +90,9 @@ je vous montre un petit expemple.
 (https://classe-a-12.beta.gouv.fr/) pour l'avoir consulté moi meme je peux dire de ce site que sait une très bonne idée d'une pour s'ipmplifié la réussite des jeune est d'un autre coté voir que les prof font tout ca pour que leurs élèves réussise le mieux possible.
 ---------------------------------------
 
-j'ai aussi pu faire deux petites interviw a des salarié et auto entrepreneur qui s'appelle (Nikolas et damien) si vous voulez voir les interviws je vous les met en-bàs
-
+* j'ai aussi pu faire deux petites interviw a des salarié et auto entrepreneur qui s'appelle (Nikolas et damien) si vous voulez voir les interviws je vous les met en-bàs
 ----------------------------
 l'interview de Nikolas:
-
--------------------------
 l'interviw de Damien:
 
 
