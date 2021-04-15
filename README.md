@@ -69,7 +69,7 @@ ensuit j'ai fait des barre de séparation pour séparé les jours les un des aut
 pour finalement donner la barre que vous avez en-bàs.
 
 -------------------------------------------------------------------------------
-je vais aussi vous expliqué ce que sais que Markdown,Markdown t la syntax que vous voyé la , comme `-` #titre 
+je vais aussi vous expliqué ce que sais que Markdown,Markdown est la syntaxe  que vous voyée la , comme `-` #titre _underscores_ 
 
 #### 15/04
 ## jeudi:
