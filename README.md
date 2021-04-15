@@ -83,6 +83,21 @@ je vous montre un petit expemple.
 
 ![image](https://user-images.githubusercontent.com/82452161/114842284-ff7fe280-9dd8-11eb-9808-5c5d281e7fe0.png)
 
+---------------------------------------------------------------
+## après-midi:
+
+* cet après-midi j'ai pu tester un site qui s'appelle (classe a 12) ce site sert pour les ensegenent de primaire qui souhaiterais s'échanger des petit astuce pour faire apprendre au jeune une autre facon de travaillé en jeux si vous voulez allé le consultéou meme y contribué je vous met le lien du site
+(https://classe-a-12.beta.gouv.fr/) pour l'avoir consulté moi meme je peux dire de ce site que sait une très bonne idée d'une pour s'ipmplifié la réussite des jeune est d'un autre coté voir que les prof font tout ca pour que leurs élèves réussise le mieux possible.
+---------------------------------------
+
+j'ai aussi pu faire deux petites interviw a des salarié et auto entrepreneur qui s'appelle (Nikolas et damien) si vous voulez voir les interviws je vous les met en-bàs
+
+----------------------------
+l'interview de Nikolas:
+
+-------------------------
+l'interviw de Damien:
+
 
 
 
