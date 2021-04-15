@@ -69,7 +69,8 @@ ensuit j'ai fait des barre de séparation pour séparé les jours les un des aut
 pour finalement donner la barre que vous avez en-bàs.
 
 -------------------------------------------------------------------------------
-je vais aussi vous expliqué ce que sais que Markdown,Markdown est la syntaxe  que vous voyée la , comme `-` #titre _underscores_ 
+je vais aussi vous expliqué ce que sais que Markdown,Markdown est la syntaxe  que vous voyée la `-` ou __underscores__. sur github elle est utilisé pour faire aparaitre des caractéristique bien spécifique.
+
 
 #### 15/04
 ## jeudi:
@@ -80,7 +81,8 @@ je vais aussi vous expliqué ce que sais que Markdown,Markdown est la syntaxe  q
 ce site sert a donner des conseil contre la covid, nous prévenir des potentiel danger qu'il peut engendrer, et nous alerter si nous nous avont approcher d'un potentielle cas contact. Aussi vous montrer comment vous aucupé de vos/votre enfant/bébé/grosses,je pense que ce site et très pratique vu la situation dans la quelle nous sommes et pourrait sauver plus d'une vie.
 je vous montre un petit expemple.
 
-![image](https://user-images.githubusercontent.com/82452161/114836007-7bc2f780-9dd2-11eb-809f-f9b06c8434c4.png)
+![image](https://user-images.githubusercontent.com/82452161/114842284-ff7fe280-9dd8-11eb-9808-5c5d281e7fe0.png)
+
 
 
 
