@@ -93,7 +93,7 @@ je vous montre un petit expemple.
 
 * j'ai aussi pu faire deux petites interviw a des salarié et auto entrepreneur qui s'appelle (Nikolas et damien) si vous voulez voir les interviws je vous les met en-bàs
 ----------------------------
-l'interview de Nikolas:
+l'interview de Nikolas: (https://github.com/callmegoos/interviw-nikolas)
 
 l'interviw de Damien: (https://github.com/callmegoos/interviw)
 
