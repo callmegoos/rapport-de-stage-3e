@@ -88,10 +88,11 @@ je vous montre un petit expemple.
 ## après-midi:
 
 * cet après-midi j'ai pu tester un site qui s'appelle (classe a 12).Ce site sert pour les enseignants de primaire qui souhaîteraient s'échanger des petites astuces pour faire apprendre aux jeunes une autre façon de travailler en jouant.Si vous voulez aller le consulter ou même y contribuer je vous mets le lien du site:
-(https://classe-a-12.beta.gouv.fr/) pour l'avoir consulté moi-même je peux dire de ce site que c'est une très bonne idée d'une pour r des jeunes est d'un autre côté voir que les professeurs font tout ca pour que leurs élèves réussisent le mieux possible.
+(https://classe-a-12.beta.gouv.fr/) pour l'avoir consulté moi-même je peux dire de ce site que c'est une très bonne idée pour rendre l'apprentissage des jeunes plus simple  et voir que les professeurs font tout ça pour que leurs élèves réussisent le mieux possible.
 ---------------------------------------
 
-* j'ai aussi pu faire deux petites interviw a des salarié et auto entrepreneur qui s'appelle (Nikolas et damien) si vous voulez voir les interviws je vous les met en-bàs
+* j'ai aussi pu faire deux petites interviews des salariés et auto entrepreneurs qui s'appellent (Nikolas et Damien) si vous voulez voir les interviews je vous les mets 
+* en-bàs
 
 l'interview de Nikolas: (https://github.com/callmegoos/interviw-nikolas)
 
